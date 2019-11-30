@@ -25,7 +25,7 @@ links:
   - text: 'Team ARAIBO'
     href: 'http://www.araibo.com'
 - text: 'Japanese'
-  href: 'https://b.ueda.tech'
+  sublinks:
   - text: 'Personal page'
     href: 'https://b.ueda.tech'
   - text: 'Laboratory'
