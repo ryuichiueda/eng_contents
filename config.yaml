@@ -1,6 +1,6 @@
 protocol: 'https:'
 host: 'e.ueda.tech'
-sitetitle: 'R. Ueda and Lab.'
+sitetitle: 'Ryuichi Ueda and CIT Autonomous Robot Lab'
 subtitle: ''
 headline:
 - text: '<a href="https://b.ueda.tech">Personal site in Japanese</a>'
