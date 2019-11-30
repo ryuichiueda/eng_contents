@@ -24,6 +24,8 @@ links:
     href: '/?page=GlueLang'
   - text: 'Team ARAIBO'
     href: 'http://www.araibo.com'
+- text: 'Japanese'
+  href: 'https://b.ueda.tech'
 sociallinks:
 - icon: 'fa-wikipedia-w'
   href: 'https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%9A%86%E4%B8%80'
