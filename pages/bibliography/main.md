@@ -4,33 +4,21 @@ Associate Professor, Director of the autonomous robot lab.
 
 ![](2019_11_ueda_s.png)
 
-<div class="social-profile">
-<ul>
- 	<li class="facebook"><a title="Facebook" href="https://www.facebook.com/profile.php?id=675930229170437#!/profile.php?id=675930229170437" target="_blank" rel="noopener noreferrer">Facebook</a></li>
- 	<li class="twitter"><a title="Twitter" href="https://twitter.com/ryuichiueda" target="_blank" rel="noopener noreferrer">Twitter</a></li>
- 	<li class="linkedin"><a title="Linkedin" href="https://www.linkedin.com/profile/view?id=172472847" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
- 	<li class="slideshare"><a title="Slideshare" href="http://www.slideshare.net/ryuichiueda" target="_blank" rel="noopener noreferrer">Slideshare</a></li>
-</ul>
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channel="ryuichiueda" data-layout="full" data-count="default"></div>
-&nbsp;
-<div style="float: left;"></div>
-<a href="https://b.ueda.tech" target="_blank" rel="noopener noreferrer">personal blog</a>
-<a href="https://b.ueda.tech/?page=publication_en" target="_blank" rel="noopener noreferrer">personal publication list</a>
-<a href="https://github.com/ryuichiueda" target="_blank" rel="noopener noreferrer">GitHub</a>
+## Biographical Sketch
 
-</div>
-<div style="clear: both;"></div>
-<h2>Biographical Sketch</h2>
 Ryuichi Ueda received his BE, ME, and PhD in Precision Engineering from University of Tokyo, in 2001, 2003, and 2007. He worked in Univ. of Tokyo as an assistant professor from 2004 to 2009, and in Universal Shell Programming (USP) Laboratory Ltd. as a researcher from 2009 to 2013. He was an assistant professor of Advanced Institute of Industrial Technology and the advisory fellow of USP Lab. from Aug. 2013 to Aug. 2015. In Sep. 2015, he joined Dept. of Advanced Robotics, Chiba Institute of Technology as an associate professor. His research interests are in probabilistic approaches in robotics, and in UNIX programming.
 
 He obtained Young Investigator Excellence Award, The Robotics Society of Japan, for my presentation of "Vector Quantization for State-Action Map Compression" at Robotics Symposia, 2004. Also he obtained Young Author's Award, Systems and Information Division, The Society of Instrument and Control Engineers, for his presentation of "Pose Estimation of Multiple Cameras with Particle Filters ---Evaluation on Simulation" at SSI, 2007. He is the translator of "Probabilistic Robotics."
 
 He is the chairman of USP Tomonokai （USP友の会）, which is the society of shell script programmers. He is not only a researcher but also a technical writer in programming. He has written dozens of articles about shell scripts and other programming languages on one of the most major computer magazines in Japan. He has written two books for shell scripting. He is now writing an article about robot programming in Linux environment.
-<h2>Recent Works</h2>
-<h3>Academic publication</h3>
+
+## Recent Works
+
+### Academic publication
+
 <a href="https://lab.ueda.tech/?page_id=324">Recent academic publications are here.</a>
-<h3>Books</h3>
+
+### Books
 <ul>
  	<li>Ryuichi Ueda, translated by Yukimi Hayafune and Ryuichi Ueda: Learning ROS robot programming with Raspberry Pi, Nikkei BP, June 2018.</li>
 </ul>
