@@ -2,7 +2,7 @@
 
 Associate Professor, Director of the autonomous robot lab.
 
-![](2019_11_ueda_s.png)
+<img src="2019_11_ueda_s.png" width="50%" />
 
 ## Biographical Sketch
 
