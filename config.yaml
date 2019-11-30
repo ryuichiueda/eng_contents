@@ -19,7 +19,7 @@ links:
 - text: 'projects'
   sublinks:
   - text: 'opy'
-    href: '/?page=opy'
+    href: 'https://github.com/ryuichiueda/opy'
   - text: 'GlueLang'
     href: '/?page=GlueLang'
   - text: 'Team ARAIBO'
